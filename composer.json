@@ -1,0 +1,16 @@
+{
+    "name": "ginversiones/codechallenge",
+    "description": "Code challenge",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Alejandro Rafael Chavez",
+            "email": "juanrafael020@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
